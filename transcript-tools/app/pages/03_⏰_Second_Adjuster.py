@@ -71,7 +71,7 @@ st.set_page_config(layout="wide")
 
 st.title("Transcript Second Adjuster \U000023F0")
 
-st.write("""Paste your transcript below and choose define your adjustments:
+st.write("""Paste your transcript below and choose your adjustments:
 \n - The tool will adjust every timestamp by the amount specified.
 \n - You can also input negative values!""")
 
